@@ -9,7 +9,10 @@ To run admin (.net web api)
 3) run .sln
 
 ---------------------------------------
-tech used 
+tech used:
+---------
 front - react, formik, yup, JSX, bootstrap, axios call
+------------------------------------------------------
 back - .net web api, code first approach
+---------------------------------------
 Database - MS SQL Server
