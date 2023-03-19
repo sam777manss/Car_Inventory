@@ -12,3 +12,4 @@ To run admin (.net web api)
 tech used 
 front - react, formik, yup, JSX, bootstrap, axios call
 back - .net web api, code first approach
+Database - MS SQL Server
